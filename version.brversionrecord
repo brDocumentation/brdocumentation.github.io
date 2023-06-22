@@ -1,0 +1,7 @@
+brversionrecord version;
+
+> v++ == 2.0:
+>     - Add documentation for QScintilla 2.14
+>     - Changed homepage UI
+
+end brversionrecord;
