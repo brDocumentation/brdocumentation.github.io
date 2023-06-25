@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://brdocumentation.github.io/</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/index.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciScintilla.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciScintilla-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciScintillaBase.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexer.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciStyle.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciStyledText.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciDocument.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciCommandSet.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCustom.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciScintillaBase-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexer-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerAsm.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerAVS.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerBash.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerBatch.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCMake.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCoffeeScript.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCPP.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCSS.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerD.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerDiff.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerEDIFACT.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerFortran77.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerHex.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerHTML.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerJSON.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerLua.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerMakefile.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerMarkdown.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerMatlab.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPascal.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPerl.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPO.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPostScript.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPOV.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerProperties.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPython.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerRuby.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerSpice.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerSQL.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerTCL.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerTeX.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerVerilog.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerVHDL.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerYAML.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciAbstractAPIs.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerXML.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerTekHex.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerSRec.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerOctave.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerNASM.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerMASM.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerJavaScript.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerJava.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerIntelHex.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerIDL.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerFortran.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCSharp.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciStyle-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciStyledText-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciDocument-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciCommandSet-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciCommand.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCustom-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerAsm-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerAVS-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerBash-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerBatch-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCMake-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCoffeeScript-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCPP-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCSS-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerD-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerDiff-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerEDIFACT-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerFortran77-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerHex-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerHTML-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerJSON-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerLua-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerMakefile-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerMarkdown-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerMatlab-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPascal-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPerl-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPO-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPostScript-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPOV-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerProperties-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerPython-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerRuby-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerSpice-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerSQL-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerTCL-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerTeX-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerVerilog-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerVHDL-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerYAML-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciAbstractAPIs-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciAPIs.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciPrinter.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciMacro.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerXML-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerTekHex-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerSRec-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerOctave-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerNASM-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerMASM-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerJavaScript-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerJava-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerIntelHex-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerIDL-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerFortran-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciLexerCSharp-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciCommand-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciAPIs-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciPrinter-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://brdocumentation.github.io/qscintilla/classQsciMacro-members.html</loc>
+  <lastmod>2023-06-25T10:25:23+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>
