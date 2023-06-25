@@ -1,5 +1,8 @@
 brversionrecord version;
 
+> v++ == 2.2:
+>     - Getting ready to host on Google Search
+
 > v++ == 2.1:
 >     - Update QScintilla documentation for 2.14.1
 
